@@ -12,7 +12,7 @@ int main() {
             }
         }
 
-        // agar number repeat hua hai aur pehle print nahi hua
+        
         if (count > 1) {
             int alreadyPrinted = 0;
             for (int k = 0; k < i; k++) {
@@ -29,3 +29,4 @@ int main() {
 
     return 0;
 }
+
